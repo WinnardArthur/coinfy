@@ -1,2 +1,2 @@
 # coinfy
-A CLI for querying crypto coin information
+A CLI tool for querying crypto coins information
