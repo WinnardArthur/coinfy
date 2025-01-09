@@ -2,11 +2,17 @@
   "name": "coinfy",
   "version": "1.0.0",
   "description": "A CLI tool for querying crypto coins information",
-  "bin": "./bin/coinfy.js",
+  "bin": {
+    "coinfy": "bin/coinfy.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "crypto", "tool"],
+  "keywords": [
+    "cli",
+    "crypto",
+    "tool"
+  ],
   "author": {
     "name": "Winnard Arthur",
     "email": "winnardarthur7@gmail.com"
