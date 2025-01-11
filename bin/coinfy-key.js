@@ -1,9 +1,11 @@
 const { program } = require("commander");
-const key = require('../commands/key.js')
+
+const key = require('../commands/key.js');
+const { api } = require("../constants.js");
 
 program
   .command("set")
-  .description("Set API Key -- Get at https://nomics.com")
+  .description(`Set API Key -- Get your API key from ${api}`)
   .action(key.set);
 
 program

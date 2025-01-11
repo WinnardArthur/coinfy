@@ -1,7 +1,4 @@
-// const colors = require("colors");
-
 const KeyManager = require("../lib/KeyManager.js");
-const { apiEndpoint } = require("../constants");
 const { isRequired } = require("../utils/validations.js");
 
 const key = {
@@ -17,7 +14,7 @@ const key = {
         {
           type: "input",
           name: "apikey",
-          message: "\x1b[32mEnter API Key\x1b[39m " + apiEndpoint,
+          message: "\x1b[32mEnter API Key\x1b[39m " + api,
           validate: isRequired,
         },
       ]);
