@@ -8,7 +8,7 @@ A CLI tool for querying crypto coins information
 npm install -g coinfy
 ```
 
-Once installed, you can use the CLI with the command:
+Once installed, you can use the CLI with the commands below.
 
 ## Run the CLI
 ### `coinfy [options]`
