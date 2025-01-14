@@ -27,7 +27,7 @@ Once installed, you can use the CLI with the commands below.
 ### `coinfy key [command]`
 | Command | Description | Example |
 |---------|-------------|---------|
-| `set`   | Set API Key <br/>NB: To get API key, visit [coinmarketcap](https://coinmarketcap.com) | `coinfy key set <apikey>`|
+| `set`   | Set API Key <br/>*To get API key, visit [coinmarketcap](https://coinmarketcap.com)* | `coinfy key set <apikey>`|
 | `show` | Show API key | `coinfy key show` |
 | `remove` | Remove API key | `coinfy key remove` |
 
@@ -35,7 +35,7 @@ Once installed, you can use the CLI with the commands below.
 | Command | Description | Example |
 |---------|-------------|---------|
 | `price` | Check price information | `coinfy check price [options]`|
-| __Options__ |
+| __Options__ |         |         |
 | `--cur` | Specify currency (Eg: EUR). Default is USD | `coinfy check price --cur=EUR`|
 | `--coin` | Specify coin. Multiple coins should be comma separated (Eg: ETH,BTC). Default is BTC,ETH,XRP | `coinfy check price --coin=ETH,BTC`|
 
