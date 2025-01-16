@@ -46,9 +46,9 @@ After installing it, you can run the commands below.
 | `--coin` | Specify coin. Multiple coins should be comma separated (Eg: ETH,BTC). Default is BTC,ETH,XRP | `coinfy check price --coin=ETH,BTC`|
 
 ## Features
-+ <b>Lightweight: </b>Easy to install and quick to run.
-+ **Flexible:** Supports various options for different use cases.
-+ __Efficient:__ Simplifies tasks and improves workflow.
+- **Real-Time Pricing:** Fetch the latest prices for popular cryptocurrencies like Bitcoin, Ethereum, and more.
+- **Simple Commands:** Get data with intuitive and straightforward commands.
+- **Lightweight & Fast:** Designed for speed and simplicity without unnecessary bloat.
 
 ## Contributing
 Contributions are welcome!
@@ -59,6 +59,11 @@ The project is licensed under the MIT License.
 
 ## Support
 If you encounter any issues or have questions, feel free to [open an issue](https://github.com/WinnardArthur/coinfy/issues) or email me at [winnardarthur7@gmail.com](mailto:winnardarthur7@gmail.com)
+
+## Downloads
+- [Windows](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-win.zip)
+- [macOS](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-macos.zip)
+- [Linux](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-linux.zip)
 
 
 
