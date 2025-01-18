@@ -1,6 +1,6 @@
 # coinfy
 
-![NPM Version](https://img.shields.io/npm/v/coinfy?style=flat&labelColor=gray&color=%234CBB17)
+[![NPM Version](https://img.shields.io/npm/v/coinfy?style=flat&labelColor=gray&color=%234CBA17)](https://www.npmjs.com/package/coinfy)
 
 A CLI tool for querying crypto coins information
 
@@ -61,10 +61,11 @@ The project is licensed under the MIT License.
 If you encounter any issues or have questions, feel free to [open an issue](https://github.com/WinnardArthur/coinfy/issues) or email me at [winnardarthur7@gmail.com](mailto:winnardarthur7@gmail.com)
 
 ## Downloads
-- [Windows](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-win.zip)
-- [macOS](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-macos.zip)
-- [Linux](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-linux.zip)
+[![Download for Linux](https://img.shields.io/badge/Linux-Download-brightgreen)](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-linux.zip)
 
+[![Download for macOS](https://img.shields.io/badge/macOS-Download-blue)](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-macos.zip)
+
+[![Download for Windows](https://img.shields.io/badge/Windows-Download-orange)](https://github.com/WinnardArthur/coinfy/releases/download/v1.0.3/coinfy-win.zip)
 
 
 
